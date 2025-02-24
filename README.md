@@ -1,55 +1,56 @@
 # BIOC4001_RBP
 
 ## Description
-**BIOC4001** is an advanced unit in biochemistry and molecular biology at UWA, focusing on recent developments in the field. The unit covers topics such as protein interactions, non-coding RNAs, cell signalling, and organelles. Students develop and present a lecture on an aspect of one of these topics through independent readings, highlighting the research that has led to our current understanding of the topic. 
+**BIOC4001** is an advanced unit in biochemistry and molecular biology at UWA, focusing on recent developments in the field. The unit covers topics such as protein interactions, noncoding RNAs, cell signalling, and organelles. Students develop and present a lecture on an aspect of one of these topics through independent readings, highlighting the research that has led to our current understanding of the topic. 
 
 The main academic objective is for students to gain an understanding and appreciation of how knowledge in biochemistry and molecular biology progresses. 
 
-This repository contains bits and pieces on RNA-binding proteins (RBPs), essential regulators of RNA metabolism —including splicing, transport, localisation, and stability— that influence gene expression and various cellular processes. RBPs recognise specific RNA sequences or structures through domains such as RNA-recognition motifs (RRMs), double-stranded RNA-binding motifs (dsRBMs), and zinc fingers. Disruptions in RBP functions can lead to diseases, highlighting their significance in maintaining cellular health. Advancements in technologies, such as cross-linking immunoprecipitation (CLIP) methods, have enhanced the study of these interactions, providing detailed maps of RBP binding sites on RNAs. Understanding RNA-protein interactions is crucial for insights into gene regulation and potential exploitable targets for medical and biotechnological applications.
+This repository contains bits and pieces on RNA-binding proteins (RBPs), essential regulators of RNA metabolism —including splicing, transport, localisation, and stability— that influence gene expression and various cellular processes. RBPs recognise specific RNA sequences or structures through domains such as RNA recognition motifs (RRMs), double-stranded RNA-binding motifs (dsRBMs), and zinc fingers. Disruptions in RBP functions can lead to diseases, highlighting their significance in maintaining cellular health. Advancements in technologies, such as crosslinking immunoprecipitation (CLIP) methods, have enhanced the study of these interactions, providing detailed maps of RBP binding sites on RNAs. Understanding RNA-protein interactions is crucial for insights into gene regulation and potential exploitable targets for medical and biotechnological applications.
 
 ## Quick Connections
 
 - [Lecture Overview](#lecture-overview)
 - [Reading Materials](#reading-materials)
-- [WorkShop2(SOON)](more/WorkShop2.md)
+- [Workshop](more/WorkShop2.md)
 
 
 ## Lecture Overview
-#### 1. General Features of Nucleic-Acid-Binding Proteins
-- Definition and significance of nucleic-acid-binding proteins.
+#### 1. General Features of Nucleic Acid-Binding Proteins
+- Definition and significance of nucleic acid-binding proteins.
 - Types of binding proteins and their interactions with RNA and DNA.
 - Modular nature and functional domains (e.g., RRMs, zinc fingers, dsRBMs).
 ---
 
 #### 2. Function and Specificity of RNA-Binding Proteins
-- Protein modularity and function relationship
+- Relationship between protein modularity and function.
 - (1) Structure-specific recognition (e.g., stem-loop binding proteins).
 - (2) Sequence-specific recognition (e.g., PPR proteins).
-- (3) RNA-led recognition (e.g. Arganaute, CRISPR)
-- Examples of proteins and their function
+- (3) RNA-led recognition (e.g., Argonaute, CRISPR).
+- Examples of proteins and their function.
 ---
 
-#### 3. Biotechnological exploitation opportunities
-- RBP in synthetic biology
+#### 3. Biotechnological Exploitation Opportunities
+- RBP in synthetic biology.
 - Opportunity to modulate gene expression at the DNA, RNA, and protein levels.
 ---
 
 #### 4. Identifying RNA-Protein Interactions
-- Methods for identifying RBP or RNA binding partners (CLIP, RNA pull down)
-- Crosslinking techniques (e.g., CLIP and versions of it)
+- Methods for identifying RBP or RNA binding partners (CLIP, RNA pull-down).
+- Crosslinking techniques (e.g., CLIP and versions of it).
 ---
 
 #### 5. Quantifying RNA-Protein Interactions
 - Experimental methods:
   - Electrophoretic Mobility Shift Assays (EMSA).
-  - Fluorescence polarization.
+  - Fluorescence polarisation.
   - Microscale thermophoresis.
   - Surface plasmon resonance.
-- Importance of dissociation constants (Kd) in quantifying binding strength and functionality.
+- Importance of dissociation constants (K<sub>d</sub>) in quantifying binding strength and functionality.
+
 --- 
 
 ### Reading Materials
-They are some fundamental concepts in these papers rather then the newest discoveries. This will help understand the subject.
+There are some fundamental concepts in these papers rather then the newest discoveries. This will help understand the subject.
 
 **1. [RNA-binding proteins: modular design for efficient function](https://europepmc.org/articles/PMC5507177)**  
 *Lunde BM, Moore C, Varani G. Nat Rev Mol Cell Biol. 2007 Jun;8(6):479-490.*  

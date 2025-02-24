@@ -1,4 +1,4 @@
-# **Workshop: Analyzing EMSAs for RNA-RBP Interactions**  
+# **Workshop: Analysing EMSAs for RNA-RBP Interactions**  
 
 ## **Overview**  
 This page summarises the RBP workshop for practicing the analysis of **Electrophoretic Mobility Shift Assays (EMSAs)** used to study RNA-Protein interactions. The workshop focuses on interpreting key experimental data from **Miranda et al. (2017, 2018) and McDermott et al. (2019)**, with guided questions to enhance understanding.
