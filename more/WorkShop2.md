@@ -103,6 +103,25 @@ For each experiment, consider the following:
 
 ---
 
+### [McDermott et al. (2019) Plant Cell 31:1723–1733](https://academic.oup.com/plcell/article/31/8/1723/5985835)
+
+#### Figure 2/Figure S2A  
+<img src="./images/mcdermott_2019_fig2.jpg" width="800">  
+<img src="./images/mcdermott_2019_figs2.png" width="800">
+
+#### Figure 3/Figure S3  
+<img src="./images/mcdermott_2019_fig3.jpg" width="800">  
+<img src="./images/mcdermott_2019_figs3.png" width="800">
+
+#### Figure 5/Figure S2B/Figure S5  
+<img src="./images/mcdermott_2019_fig5.png" width="800">  
+<img src="./images/mcdermott_2019_figs2.png" width="800">
+<img src="./images/mcdermott_2019_figS5.png" width="800">
+
+#### Figure 6  
+<img src="./images/mcdermott_2019_fig6.jpg" width="800">
+
+
 ### Literature References
 **[RNA Bind-n-Seq: Quantitative Assessment of the Sequence and Structural Binding Specificity of RNA Binding Proteins](https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(14)00327-X)**  
 Lambert et al., Mol Cell. 2014 Jun 5;54(5):887-900
