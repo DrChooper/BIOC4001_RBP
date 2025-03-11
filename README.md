@@ -12,6 +12,7 @@ This repository contains bits and pieces on RNA-binding proteins (RBPs), essenti
 - [Lecture Overview](#lecture-overview)
 - [Reading Materials](#reading-materials)
 - [Workshop](more/WorkShop2.md)
+- [Comparative Tables](more/tables.md)
 
 
 ## Lecture Overview

@@ -1,10 +1,10 @@
-# **Workshop: Analysing EMSAs for RNA-RBP Interactions**  
+# **Workshop: Analysing RNA-RBP Interaction Experiments**  
 
 ## **Overview**  
-This page summarises the RBP workshop for practicing the analysis of **Electrophoretic Mobility Shift Assays (EMSAs)** used to study RNA-Protein interactions. The workshop focuses on interpreting key experimental data from **Miranda et al. (2017, 2018) and McDermott et al. (2019)**, with guided questions to enhance understanding.
+This page summarises the RBP workshop for practicing the analysis of **Electrophoretic Mobility Shift Assays (EMSAs)** and other methods used to study RNA-Protein interactions. The workshop focuses on interpreting key experimental data from **Miranda et al. (2017, 2018) and McDermott et al. (2019)**, with guided questions to enhance understanding.
 
 ## **Core Questions for Each Figure**  
-For each EMSA experiment, consider the following:  
+For each experiment, consider the following:  
 
 1. **Why was this experiment done?**  
    - What hypothesis or research question does this address?  
@@ -59,9 +59,9 @@ For each EMSA experiment, consider the following:
 - **8.** [Figure 5/Figure S6](#figure-5figure-s6)  
 
 ### **McDermott et al. (2019) Plant Cell 31:1723–1733**
-- **9.** [Figure 2/Figure S2](#figure-2figure-s2)  
+- **9.** [Figure 2/Figure S2A](#figure-2figure-s2a)  
 - **10.** [Figure 3/Figure S3](#figure-3figure-s3)  
-- **11.** [Figure 5/Figure S2/Figure S5](#figure-5figure-s2figure-s5)  
+- **11.** [Figure 5/Figure S2B/Figure S5](#figure-5figure-s2bfigure-s5)  
 - **12.** [Figure 6](#figure-6)  
 
 ### **[Literature References](#literature-references)**
@@ -91,13 +91,13 @@ For each EMSA experiment, consider the following:
 **Fig3**  
 <img src="images/miranda_2018_fig3.jpeg" width="400">
 
-#### **Figure S3  **
+#### Figure S3
 <img src="images/miranda_2018_figS3.png" width="800">
 
-####** Figure S4  **
+#### Figure S4
 <img src="images/miranda_2018_figS4.png" width="800">
 
-#### **Figure 5/Figure S6  **
+#### Figure 5/Figure S6
 <img src="images/miranda_2018_fig5.jpeg" width="800">  
 <img src="images/miranda_2018_figS6.png" width="800">
 
@@ -105,21 +105,21 @@ For each EMSA experiment, consider the following:
 
 ### [McDermott et al. (2019) Plant Cell 31:1723–1733](https://academic.oup.com/plcell/article/31/8/1723/5985835)
 
-#### Figure 2/Figure S2  
-<img src="images/mcdermott_2019_fig2.jpeg" width="800">  
-<img src="images/mcdermott_2019_figS2.jpeg" width="800">
+#### Figure 2/Figure S2A  
+<img src="images/mcdermott_2019_fig2.jpg" width="800">  
+<img src="images/mcdermott_2019_figs2.jpg" width="800">
 
 #### Figure 3/Figure S3  
-<img src="images/mcdermott_2019_fig3.jpeg" width="800">  
-<img src="images/mcdermott_2019_figS3.jpg" width="800">
+<img src="images/mcdermott_2019_fig3.jpg" width="800">  
+<img src="images/mcdermott_2019_figs3.jpg" width="800">
 
-#### Figure 5/Figure S2/Figure S5  
-<img src="images/mcdermott_2019_fig5.jpeg" width="800">  
-<img src="images/mcdermott_2019_figS2.jpg" width="800">  
+#### Figure 5/Figure S2B/Figure S5  
+<img src="images/mcdermott_2019_fig5.jpg" width="800">  
+<img src="images/mcdermott_2019_figs2.jpg" width="800">  
 <img src="images/mcdermott_2019_figS5.jpg" width="800">
 
 #### Figure 6  
-<img src="images/mcdermott_2019_fig6.jpeg" width="800">
+<img src="images/mcdermott_2019_fig6.jpg" width="800">
 
 
 ### Literature References
