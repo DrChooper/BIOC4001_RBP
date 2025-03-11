@@ -70,56 +70,56 @@ For each experiment, consider the following:
 ### [Miranda et al. (2017) RNA 23:586–599](https://rnajournal.cshlp.org/content/23/4/586.short)
 
 #### Figure 3  
-<img src="images/miranda_2017_fig3.jpg" width="800">
+<img src="./images/miranda_2017_fig3.jpg" width="800">
 
 #### Figure S3  
-<img src="images/miranda_2017_figS3.png" width="800">
+<img src="./images/miranda_2017_figS3.png" width="800">
 
 ---
 
 ### [Miranda et al. (2018) NAR 46:2613–2623](https://academic.oup.com/nar/article/46/5/2613/4780162)
 
 #### Figure S1  
-<img src="images/miranda_2018_figS1.png" width="800">
+<img src="./images/miranda_2018_figS1.png" width="800">
 
 #### Figure 1  
-<img src="images/miranda_2018_fig1.jpeg" width="800">
+<img src="./images/miranda_2018_fig1.jpeg" width="800">
 
 #### Figure 2 / Figure 3  
 **Fig2**  
-<img src="images/miranda_2018_fig2.jpeg" width="400">   
+<img src="./images/miranda_2018_fig2.jpeg" width="400">   
 **Fig3**  
-<img src="images/miranda_2018_fig3.jpeg" width="400">
+<img src="./images/miranda_2018_fig3.jpeg" width="400">
 
 #### Figure S3
-<img src="images/miranda_2018_figS3.png" width="800">
+<img src="./images/miranda_2018_figS3.png" width="800">
 
 #### Figure S4
-<img src="images/miranda_2018_figS4.png" width="800">
+<img src="./images/miranda_2018_figS4.png" width="800">
 
 #### Figure 5/Figure S6
-<img src="images/miranda_2018_fig5.jpeg" width="800">  
-<img src="images/miranda_2018_figS6.png" width="800">
+<img src="./images/miranda_2018_fig5.jpeg" width="800">  
+<img src="./images/miranda_2018_figS6.png" width="800">
 
 ---
 
 ### [McDermott et al. (2019) Plant Cell 31:1723–1733](https://academic.oup.com/plcell/article/31/8/1723/5985835)
 
 #### Figure 2/Figure S2A  
-<img src="images/mcdermott_2019_fig2.jpg" width="800">  
-<img src="images/mcdermott_2019_figs2.jpg" width="800">
+<img src="./images/mcdermott_2019_fig2.jpg" width="800">  
+<img src="./images/mcdermott_2019_figs2" width="800">
 
 #### Figure 3/Figure S3  
-<img src="images/mcdermott_2019_fig3.jpg" width="800">  
-<img src="images/mcdermott_2019_figs3.jpg" width="800">
+<img src="./images/mcdermott_2019_fig3.jpg" width="800">  
+<img src="./images/mcdermott_2019_figs3" width="800">
 
 #### Figure 5/Figure S2B/Figure S5  
-<img src="images/mcdermott_2019_fig5.jpg" width="800">  
-<img src="images/mcdermott_2019_figs2.jpg" width="800">  
-<img src="images/mcdermott_2019_figS5.jpg" width="800">
+<img src="./images/mcdermott_2019_fig5" width="800">  
+<img src="./images/mcdermott_2019_figs2" width="800">
+<img src="./images/mcdermott_2019_figS5" width="800">
 
 #### Figure 6  
-<img src="images/mcdermott_2019_fig6.jpg" width="800">
+<img src="./images/mcdermott_2019_fig6.jpg" width="800">
 
 
 ### Literature References
