@@ -64,7 +64,10 @@ For each experiment, consider the following:
 - **11.** [Figure 5/Figure S2B/Figure S5](#figure-5figure-s2bfigure-s5)  
 - **12.** [Figure 6](#figure-6)  
 
+
 ### **[Literature References](#literature-references)**
+
+### **[Keys to Figures](#keys-to-figures)**
 ---
 
 ### [Miranda et al. (2017) RNA 23:586–599](https://rnajournal.cshlp.org/content/23/4/586.short)
@@ -155,3 +158,12 @@ RNA Bind-n-Seq (RBNS) is a high-throughput technique designed to determine the s
 
 - [RNA Bind-N-Seq (RBNS) Experimental Protocol](https://www.encodeproject.org/documents/f2cef92c-ae02-4d83-b31b-fdcec62e5356/@@download/attachment/original_RBNS_Experimental_protocol.pdf)
 - [RNA Bind-N-Seq (RBNS) Computational Pipeline](https://www.encodeproject.org/documents/c8b3442a-7e63-4847-af11-c72597bf65b3/@@download/attachment/RBNS_Computational_Pipeline_Aug_2016_update_Dec2018.pdf)
+
+
+### Keys to Figures
+
+You can find my docs here. **Remember that these are my cheat notes so there are typos and formatting things etc.** Use it as a help rather than gospel. There is probably too much info in there for your purposes but feel free to exceed my expertise! The main aim is to be sure that you understand yourself so you can criticaly assess other people's work. 
+
+📄 [Miranda *et al*., 2017](https://raw.githubusercontent.com/DrChooper/BIOC4001_RBP/main/more/downloads/Miranda_2017_SolutionKey.docx)  
+📄 [Miranda *et al*., 2018](https://raw.githubusercontent.com/DrChooper/BIOC4001_RBP/main/more/downloads/Miranda_2018_SolutionKey.docx)  
+📄 [McDermott *et al*., 2019](https://raw.githubusercontent.com/DrChooper/BIOC4001_RBP/main/more/downloads/McDermott_2019_SolutionKey.docx)
