@@ -45,6 +45,7 @@ For each experiment, consider the following:
 - Multiple Players: **Loss of shift with competitor RNA** → Interaction is specific and competitive.  
 - Optimizing Binding: **Comparing of shifts with increasing protein** → Shows binding affinity (K<sub>d</sub> estimation).  
 
+
 ## Table of Contents
 ### **Miranda et al. (2017) RNA 23:586–599**
 - **1.** [Figure 3](#figure-3)  
@@ -65,10 +66,12 @@ For each experiment, consider the following:
 - **12.** [Figure 6](#figure-6)  
 
 
-### **[Literature References](#literature-references)**
+### [Literature References](#literature-references-1)
 
-### **[Keys to Figures](#keys-to-figures)**
----
+### [Keys to Figures](#keys-to-figures-1)
+
+--- 
+
 
 ### [Miranda et al. (2017) RNA 23:586–599](https://rnajournal.cshlp.org/content/23/4/586.short)
 
@@ -88,7 +91,7 @@ For each experiment, consider the following:
 #### Figure 1  
 <img src="./images/miranda_2018_fig1.jpeg" width="800">
 
-#### Figure 2 / Figure 3  
+#### Figure 2/Figure 3  
 **Fig2**  
 <img src="./images/miranda_2018_fig2.jpeg" width="400">   
 **Fig3**  
@@ -125,9 +128,10 @@ For each experiment, consider the following:
 <img src="./images/mcdermott_2019_fig6.jpg" width="800">
 
 
-### Literature References
+### **Literature References**
 **[RNA Bind-n-Seq: Quantitative Assessment of the Sequence and Structural Binding Specificity of RNA Binding Proteins](https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(14)00327-X)**  
 Lambert et al., Mol Cell. 2014 Jun 5;54(5):887-900
+
 
 #### Short Tutorial
 RNA Bind-n-Seq (RBNS) is a high-throughput technique designed to determine the sequence and structural preferences of RNA-binding proteins (RBPs). **This method involves incubating a purified RBP with a diverse pool of random RNA sequences. The protein binds more often to its preferred RNA motifs**. Subsequently, the RBP-RNA complexes are isolated, and **the bound RNA sequences are identified through high-throughput sequencing**. By analysing the frequency and patterns of these sequences, researchers can deduce the specific RNA motifs and structures that the RBP favours. This information is crucial for understanding post-transcriptional gene regulation and the roles of RBPs in various biological processes.
@@ -159,9 +163,11 @@ RNA Bind-n-Seq (RBNS) is a high-throughput technique designed to determine the s
 - [RNA Bind-N-Seq (RBNS) Experimental Protocol](https://www.encodeproject.org/documents/f2cef92c-ae02-4d83-b31b-fdcec62e5356/@@download/attachment/original_RBNS_Experimental_protocol.pdf)
 - [RNA Bind-N-Seq (RBNS) Computational Pipeline](https://www.encodeproject.org/documents/c8b3442a-7e63-4847-af11-c72597bf65b3/@@download/attachment/RBNS_Computational_Pipeline_Aug_2016_update_Dec2018.pdf)
 
+*What are the "bits" units mean: This is a quantitative measure or frequency of observation measure. "How often do I encounter this base in this position". The statistics are derived from evolution-conservation. Bits because there are only descrete options e.g. C,G,U,A. Similary to computing there is only so much information contained. They to not add up to the top due to variation across postion of the bases (entropy of the information content and unequal conservation)*
+- **[Calculating Sequence Logos](https://resources.qiagenbioinformatics.com/manuals/clcmainworkbench/800/index.php?manual=BE_Sequence_logo.html):** e.g. Online Manual from Qiagen
+
 
 ### Keys to Figures
-
 You can find my docs here. **Remember that these are my cheat notes so there are typos and formatting things etc.** Use it as a help rather than gospel. There is probably too much info in there for your purposes but feel free to exceed my expertise! The main aim is to be sure that you understand yourself so you can criticaly assess other people's work. 
 
 📄 [Miranda *et al*., 2017](https://raw.githubusercontent.com/DrChooper/BIOC4001_RBP/main/more/downloads/Miranda_2017_SolutionKey.docx)  
